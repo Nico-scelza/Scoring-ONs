@@ -32,10 +32,4 @@ Los siguientes ratios fueron elegidos por su capacidad de capturar distintos asp
 - **Deuda Financiera Neta / EBITDA** → años necesarios para pagar deuda con resultados operativos.
 - **Deuda Financiera Neta / Patrimonio Neto** → solvencia estructural.
 
-### 🧮 Fórmula final
-
-\[
-\text{Nota Final} = \sum_{i=1}^{n} \text{Ratio}_i^\text{normalizado} \times \text{Peso}_i
-\]
-
 Cada ratio puede ser ponderado con distinta importancia (vos mismo lo ajustás en el código).
